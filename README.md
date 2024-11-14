@@ -46,16 +46,15 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nurikhsanuddin&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurikhsanuddin&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 🏆 Certifications:
 - Programmer & Software Development Certification from National Agency for Professional Certification
-- English Proficiency Test (EPT) Score: 720
 
 ### 🤝 Connect with me:
 
@@ -76,5 +75,5 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,tailwind,nodejs,mysql,figma,supabase,postgresql,laravel,firebase,vite,vercel,git,github,githubactions,androidstudio,arduino,postman,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,pr,vscode,cpp,html,css,tailwind,flutter,nodejs,mysql,figma,supabase,postgresql,laravel,firebase,vite,vercel,git,github,githubactions,androidstudio,arduino,postman,tensorflow&theme=light)](https://skillicons.dev)
 
