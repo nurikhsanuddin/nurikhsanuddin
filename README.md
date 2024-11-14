@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nur Ikhsanuddin</h1>
-<h3 align="center">A passionate Full-Stack Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Web+Developer;UI/UX+Designer;Content+Creator&center=true&width=380&height=45">
@@ -62,7 +62,7 @@
   <a href="mailto:m.nurikhsanuddin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/muhammad-nur-ikhsanuddin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://ikhsan.projectmaster.id">
@@ -72,7 +72,7 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=nurikhsanuddin&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=py,php,pr,vscode,cpp,html,css,tailwind,flutter,nodejs,mysql,figma,supabase,postgresql,laravel,firebase,vite,vercel,git,github,githubactions,androidstudio,arduino,postman,tensorflow&theme=light)](https://skillicons.dev)
