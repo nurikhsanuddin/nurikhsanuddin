@@ -7,7 +7,6 @@
 
 ### 👨‍💻 About Me:
 
-- 🔭 I'm currently working on **[ProjectMaster.id](https://projectmaster.id)** and **[HealthMedika.id](https://healthmedika.id)**
 - 🌱 I'm passionate about **Web Development** and **Content Creation**
 - 👨‍🎓 Currently pursuing Bachelor's Degree in **Informatics Engineering**
 - 📫 How to reach me: **m.nurikhsanuddin@gmail.com**
@@ -37,19 +36,13 @@
 ### 🎯 Skills:
 
 **Programming & Development**
-- Backend Development (PHP, Python)
+- Backend Development (PHP, Python, Express)
 - Frontend Development (HTML, CSS, JavaScript)
 - Mobile Development (Flutter)
 - Database Management Systems
 - UI/UX Design
 - Content Creation
 
-**Tools & Platforms**
-- Laravel & CodeIgniter Frameworks
-- Microsoft Office Suite
-- Linux Operating System
-- Version Control (Git)
-- Design Tools
 
 ### 📊 GitHub Stats:
 
