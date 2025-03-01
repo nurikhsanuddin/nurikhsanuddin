@@ -41,7 +41,7 @@
 - Mobile Development (Flutter)
 - Database Management Systems
 - UI/UX Design
-- Content Creation
+- Content Editor
 
 
 ### 📊 GitHub Stats:
