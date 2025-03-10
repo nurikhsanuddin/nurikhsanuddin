@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Nur Ikhsanuddin</h1>
+<h1 align="center">Hi 👋, I'm Ikhsan</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 - 🌱 I'm passionate about **Web Development** and **Content Creation**
 - 👨‍🎓 Currently pursuing Bachelor's Degree in **Informatics Engineering**
 - 📫 How to reach me: **m.nurikhsanuddin@gmail.com**
-- 🌐 Portfolio: **[ikhsan.projectmaster.id](https://ikhsan.projectmaster.id)**
+- 🌐 Portfolio: **[sandin.site](https://sandin.site)**
 
 ### 🛠️ Technologies and Tools:
 
@@ -39,7 +39,7 @@
 - Backend Development (PHP, Python, Express)
 - Frontend Development (HTML, CSS, JavaScript)
 - Mobile Development (Flutter)
-- Database Management Systems
+- Framework (Reactjs, CodeIgniter, Laravel, Nextjs, Tailwind, and more)
 - UI/UX Design
 - Content Editor
 
