@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/muhammad-nur-ikhsanuddin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://ikhsan.projectmaster.id">
+  <a href="https://sandin.site">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"/>
   </a>
 </p>
