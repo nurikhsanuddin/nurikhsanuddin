@@ -26,16 +26,26 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
 <img src="https://img.shields.io/badge/Inertia.js-6366F1?style=for-the-badge&logo=inertia&logoColor=white" alt="inertiajs"/>
-
 </p>
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nurikhsanuddin&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurikhsanuddin&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🌟 Most Used Languages:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurikhsanuddin&layout=compact&theme=radical&langs_count=8&hide=html,css,scss&count_private=true" alt="Top Languages" />
+</p>
+
+*Note: Includes private repository contributions. Actual usage may vary as it's based on GitHub's language detection.*
 
 ### 🎯 Skills:
 
@@ -46,17 +56,6 @@
 - Framework (Reactjs, CodeIgniter, Laravel, Nextjs, Tailwind, and more)
 - UI/UX Design
 - Content Editor
-
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurikhsanuddin&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurikhsanuddin&theme=radical" alt="GitHub Streak" />
-</p>
 
 ### 🏆 Certifications:
 - Programmer & Software Development Certification from National Agency for Professional Certification
@@ -81,4 +80,3 @@
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=py,php,pr,vscode,cpp,html,css,tailwind,flutter,nodejs,mysql,figma,supabase,postgresql,laravel,firebase,vite,vercel,git,github,githubactions,androidstudio,arduino,postman,tensorflow&theme=light)](https://skillicons.dev)
-
