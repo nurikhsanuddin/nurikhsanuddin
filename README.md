@@ -11,7 +11,7 @@
 
 <br>
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 - 🌱 I'm passionate about **Web Development** and **Content Editing**
 - 👨‍🎓 Currently pursuing Bachelor's Degree in **Informatics Engineering**
@@ -55,6 +55,12 @@
 </div>
 
 <div align="center"><i>Note: Includes private repository contributions. Actual usage may vary as it's based on GitHub's language detection.</i></div>
+
+## 📅 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurikhsanuddin&theme=tokyo-night&hide_border=true&radius=10" alt="Contribution Graph" />
+</div>
 
 ## 🎯 Skills
 
