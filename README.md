@@ -44,9 +44,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nurikhsanuddin&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nurikhsanuddin&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nurikhsanuddin&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&border_radius=10" alt="GitHub Streak" />
+</div>
 
 ## 🌟 Most Used Languages
 
